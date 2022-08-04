@@ -7,8 +7,8 @@
 > 用于笔记整理 
 -🤣  <small>lyh</small>
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](README)
+[Document](https://docsify.js.org/#/zh-cn/quickstart)
+[Get Started](guide)
 
 
 <!-- 背景色 -->
