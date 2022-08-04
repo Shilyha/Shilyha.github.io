@@ -3,7 +3,10 @@
 
 这是图片
 
-<img src="https://snz04pap001files.storage.live.com/y4m6JoY9z7Jue4JOOgufFsGSGzANCHw8NfC9eyQlcuE0M0uYuxQl_AOV9IEQhJSnDJ04PWkaf0m9GK7YkXvKxT5bs_bD9eOBHyL4u61bFsI3kmFR709XD76Qn46RH2JQvSAiyUqJ4olzhBDP_3P4DdBouhfda0o6DP5DlQ4QG7NkRRLyJwE7htYZqNXM4GYWu_M?width=2004&height=1099&cropmode=none" alt="初音" width="20%" >
+<div class="img-box">
+    <img src="https://snz04pap001files.storage.live.com/y4m6JoY9z7Jue4JOOgufFsGSGzANCHw8NfC9eyQlcuE0M0uYuxQl_AOV9IEQhJSnDJ04PWkaf0m9GK7YkXvKxT5bs_bD9eOBHyL4u61bFsI3kmFR709XD76Qn46RH2JQvSAiyUqJ4olzhBDP_3P4DdBouhfda0o6DP5DlQ4QG7NkRRLyJwE7htYZqNXM4GYWu_M?width=2004&height=1099&cropmode=none" alt="初音" width="20%" >
+</div>
+
 
 图片等比例缩放，这里只加上了 width="60%"
 
